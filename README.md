@@ -4,7 +4,11 @@
 
 > **"Learn Free. Code Secure. Master Everything."**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/krutikbusa63-tools/FULL-COURSE-ANDROID-CYBER-SECURITY-CODING-LEARNING/main/Who-Are-Hackers.png" width="800" alt="LEARN CODING ALL BY KRUTIK CYBER EXPERT">
+  <img src="https://raw.githubusercontent.com/krutikbusa63-tools/FULL-COURSE-ANDROID-CYBER-SECURITY-CODING-LEARNING/main/Who-Are-Hackers.png" width="800" alt="Main Banner">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/krutikbusa63-tools/FULL-COURSE-ANDROID-CYBER-SECURITY-CODING-LEARNING/main/Screenshot_2026-08-10-12-10-18-76_84d3000e3f4017145260f7618db1d683.jpg" width="600" alt="Screenshot">
 </p>
 ---
 
