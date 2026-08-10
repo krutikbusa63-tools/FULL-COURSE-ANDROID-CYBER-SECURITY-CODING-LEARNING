@@ -1,13 +1,14 @@
-<p align="center">
-  <video src="https://raw.githubusercontent.com/krutikbusa63-tools/FULL-COURSE-ANDROID-CYBER-SECURITY-CODING-LEARNING/main/Gemi2%20Remix%20_%20Russian%20night%20song%20_.webm" controls width="600">
-    Your browser does not support the video tag.
-  </video>
-</p>
+
 # 📚 LEARN CODING ALL – Complete Programming & Security Guide + ETHICAL HACKING
 
 **BY KRUTIK 🚨 CYBER EXPERT**
 
 > **"Learn Free. Code Secure. Master Everything."**
+>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/krutikbusa63-tools/Email-spam-tool-/main/python-animation-gif-download-11690832.gif" width="800" alt="LEARN CODING ALL BY KRUTIK CYBER EXPERT">
+</p>
+# PYTHON CODE 
 <p align="center">
   <img src="https://raw.githubusercontent.com/krutikbusa63-tools/FULL-COURSE-ANDROID-CYBER-SECURITY-CODING-LEARNING/main/Who-Are-Hackers.png" width="800" alt="Main Banner">
 </p>
